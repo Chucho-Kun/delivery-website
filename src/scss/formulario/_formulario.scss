@@ -55,6 +55,7 @@
 
     &__imagen {
         width: 30rem;
+        margin: auto;
         @include m.desktop { 
             width: 100%;
         }
